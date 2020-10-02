@@ -1,8 +1,8 @@
 created: 20200921130239248
 creator: Shik1R
-modified: 20200921130242943
+modified: 20201002043649481
 modifier: Shik1R
 title: $:/keepstate/utility/toggle-view-fields
 type: text/vnd.tiddlywiki
 
-hide
+show
